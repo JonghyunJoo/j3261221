@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/:MyBadge-blue)
+![Static Badge](https://img.shields.io/badge/:badgeContent?MyBadge-blue)
+![Static Badge](https://img.shields.io/badge/:badgeContent?flat-square)
 
 ~~~
 
