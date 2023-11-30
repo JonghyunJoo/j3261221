@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/:badgeContent?MyBadge-blue)
-![Static Badge](https://img.shields.io/badge/:badgeContent?flat-square)
+![Static Badge](https://img.shields.io/badge/MyBadge-blue)
+![Static Badge](https://img.shields.io/badge/flat-square)
+
 
 ~~~
 
@@ -25,7 +26,7 @@
 
 ~~~
 * Java
-* Spring
+* ![Static Badge](https://img.shields.io/badge/Spring-#6DB33F/style=flat-square&log=-Spring&loggoColor=white)
 * Spring Boot
 * Spring Data JPA
 * node.js
