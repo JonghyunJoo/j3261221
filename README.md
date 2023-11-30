@@ -4,7 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/:Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/mail-6DB33F?style=flat-square&logo=Spring&logoColor=white)](mailto:j3261221@gmail.com)
 ![views](https://gh-hits.nomadcoders.workers.dev/view?username=j3261221)
-![views](https://gh-hits.nomadcoders.workers.dev/view?username=j3261221)
+
+
 ---
 
 ### 나를 소개하는 한 문장
