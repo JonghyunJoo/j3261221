@@ -3,11 +3,12 @@
 ~~~
 
 ### 나를 소개하는 한 문장
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
+
+나를 소개하는 3~5 문장</br>
+나를 소개하는 3~5 문장</br>
+나를 소개하는 3~5 문장</br>
+나를 소개하는 3~5 문장</br>
+나를 소개하는 3~5 문장</br>
 
 ~~~
 
@@ -35,6 +36,7 @@
 * React
 * Mysql
 * Oracle
+
 <!--
 **j3261221/j3261221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
