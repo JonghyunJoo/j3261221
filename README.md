@@ -1,21 +1,12 @@
-### Hi there 👋
-![Static Badge](https://img.shields.io/badge/MyBadge-blue)
-![Static Badge](https://img.shields.io/badge/flat-square)
-![Static Badge](https://img.shields.io/badge/:Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+### About Me
+안녕하세요 신입 백엔드 개발자 주종현입니다.<br>
+새로운 것을 익히는 것을 좋아하여 학원 이외에도 챌린지, 스터디 등 여러가지 활동을 통해 배움을 얻고 있습니다.<br>
+모르는 것을 빠르게 질문하고 제 의견을 이야기 하는 것에 불편함이 없습니다.<br>
+더 나은 사용자 경험을 제공하는 방법에 대해 끊임없이 고민하고 문제들을 해결하기 위해 새로운 기술을 익히는데 주저함이 없습니다.<br>
+누가 와도 이해하고 유지보수할 수 있는 코드가 좋은 코드라고 생각합니다.<br>
+
 [![Static Badge](https://img.shields.io/badge/mail-6DB33F?style=flat-square&logo=Spring&logoColor=white)](mailto:j3261221@gmail.com)
 ![views](https://gh-hits.nomadcoders.workers.dev/view?username=j3261221)
-
-
----
-
-### 나를 소개하는 한 문장
-
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-나를 소개하는 3~5 문장<br>
-
 ---
 
 ### 교육과정 수료
